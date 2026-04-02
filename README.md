@@ -1,2 +1,3 @@
-# Alziermers-Diseases-Detection
-A final year project to detect Alziermers Disease in early stage 
+//data set are from OASIS and ADNI.
+//clock drawing is a physical testing approach to detect alzheimer but due to very less amount of data ,accuracy of the model is very low.
+//Alzheimer detection and classification with MRI data accuray is very high using a good dataset.
